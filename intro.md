@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Automation
 
 Automation refers to the creation and application of technologies to perform tasks with minimal human intervention. It encompasses a wide range of techniques and technologies, from simple scripts to complex artificial intelligence systems.
@@ -39,3 +40,6 @@ Automation refers to the creation and application of technologies to perform tas
 * **Edge Computing:** Bringing computation and data storage closer to the source, enabling faster and more efficient automation.
 
 
+=======
+# Automatiom
+>>>>>>> 300045fa4658649fc26647552a87e6e7a04af425
