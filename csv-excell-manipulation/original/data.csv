@@ -1,0 +1,102 @@
+﻿VM Name,Host,Cores,"Memory
+Capacity",Storage,"CPU
+ Usage","Memory
+Usage","Controller 
+Read IOPS","Controller
+Write IOPS","Controller
+IO Bandwidth","Controller 
+Avg IO Latency","Backup and 
+Recovery Capable",Flash Mode
+VirualMachine-1,Production-N2/AHV,20,128 GiB,56.16 GiB / 650 GiB,0.02%,1.31%,-,-,-,-,Yes,No
+VirualMachine-2,Test-N2/AHV,20,128 GiB,9.31 GiB / 750 GiB,0.01%,1.85%,-,-,-,-,Yes,No
+VirualMachine-3,Development-N2/AHV,8,16 GiB,86.38 GiB / 220 GiB,14.64%,18.29%,-,-,-,-,Yes,No
+VirualMachine-4,Production-N2/AHV,8,16 GiB,36.85 GiB / 220 GiB,0.08%,8.20%,0,0,4 KBps,0.68 ms,Yes,No
+VirualMachine-5,Test-N2/AHV,8,8 GiB,440.14 MiB / 16.01 GiB,0.01%,3.66%,0,0,0 KBps,0 ms,Yes,No
+VirualMachine-6,Development-N2/AHV,4,16 GiB,13.36 GiB / 150 GiB,0.08%,7.07%,-,-,-,-,Yes,No
+VirualMachine-7,Production-N2/AHV,16,32 GiB,12.81 GiB / 650 GiB,0.19%,5.08%,0,0,4 KBps,0.72 ms,Yes,No
+VirualMachine-8,Production-N2/AHV,16,48 GiB,30.56 GiB / 665.05 GiB,0.08%,4.95%,-,-,-,-,Yes,No
+VirualMachine-9,Test-N2/AHV,8,32 GiB,9.59 GiB / 500 GiB,6.61%,11.96%,1,3,33 KBps,0.54 ms,Yes,No
+VirualMachine-10,Development-N2/AHV,4,8 GiB,26.4 GiB / 200.15 GiB,2.07%,44.24%,0,1,43 KBps,0.82 ms,Yes,No
+VirualMachine-11,Production-N2/AHV,8,16 GiB,6.66 GiB / 150 GiB,0.04%,6.10%,0,0,0 KBps,0 ms,Yes,No
+VirualMachine-12,Test-N2/AHV,8,64 GiB,34.49 GiB / 150 GiB,2.50%,12.64%,0,7,52 KBps,0.68 ms,Yes,No
+VirualMachine-13,Development-N2/AHV,8,64 GiB,35.35 GiB / 150 GiB,3.04%,8.76%,-,-,-,-,Yes,No
+VirualMachine-14,Production-N2/AHV,16,32 GiB,13.79 GiB / 400 GiB,0.04%,3.96%,0,0,3 KBps,0.94 ms,Yes,No
+VirualMachine-15,Production-N2/AHV,16,64 GiB,243.64 GiB / 7 TiB,1.36%,8.29%,0,6,254 KBps,1.39 ms,Yes,No
+VirualMachine-16,Test-N2/AHV,16,32 GiB,28.92 GiB / 1.95 TiB,2.18%,14.35%,-,-,-,-,Yes,No
+VirualMachine-17,Development-N2/AHV,16,16 GiB,26.04 GiB / 400 GiB,0.05%,14.57%,0,5,30 KBps,0.68 ms,Yes,No
+VirualMachine-18,Production-N2/AHV,8,32 GiB,398.49 GiB / 1.12 TiB,0.95%,36.17%,-,-,-,-,Yes,No
+VirualMachine-19,Test-N2/AHV,32,48 GiB,564.34 GiB / 1.15 TiB,0.13%,11.09%,0,0,0 KBps,0.42 ms,Yes,No
+VirualMachine-20,Development-N2/AHV,4,16 GiB,25.7 GiB / 1.12 TiB,1.16%,18.14%,0,4,49 KBps,0.5 ms,Yes,No
+VirualMachine-21,Production-N2/AHV,6,8 GiB,25.31 GiB / 650 GiB,1.58%,30.04%,-,-,-,-,Yes,No
+VirualMachine-22,Production-N2/AHV,4,8 GiB,26.48 GiB / 150 GiB,0.44%,12.21%,0,0,2 KBps,0.61 ms,Yes,No
+VirualMachine-23,Test-N2/AHV,4,16 GiB,10.96 GiB / 500 GiB,0.37%,15.94%,0,1,10 KBps,0.51 ms,Yes,No
+VirualMachine-24,Development-N2/AHV,8,16 GiB,24.58 GiB / 350 GiB,0.03%,7.69%,-,-,-,-,Yes,No
+VirualMachine-25,Production-N2/AHV,8,16 GiB,37.92 GiB / 650 GiB,0.78%,56.73%,0,3,41 KBps,0.54 ms,Yes,No
+VirualMachine-26,Test-N2/AHV,8,16 GiB,40.06 GiB / 2.15 TiB,0.60%,26.38%,0,4,56 KBps,0.54 ms,Yes,No
+VirualMachine-27,Development-N2/AHV,8,16 GiB,38.7 GiB / 2.15 TiB,0.62%,53.65%,0,9,69 KBps,0.4 ms,Yes,No
+VirualMachine-28,Production-N2/AHV,4,16 GiB,22.3 GiB / 400 GiB,0.98%,34.01%,-,-,-,-,Yes,No
+VirualMachine-29,Production-N2/AHV,8,32 GiB,67.04 GiB / 761.38 GiB,0.18%,25.60%,0,2,26 KBps,0.62 ms,Yes,No
+VirualMachine-30,Test-N2/AHV,8,32 GiB,57.03 GiB / 761.38 GiB,0.16%,5.96%,-,-,-,-,Yes,No
+VirualMachine-31,Development-N2/AHV,4,16 GiB,32.72 GiB / 400 GiB,0.18%,8.94%,-,-,-,-,Yes,No
+VirualMachine-32,Production-N2/AHV,4,8 GiB,24.88 GiB / 650 GiB,0%,9.56%,-,-,-,-,Yes,No
+VirualMachine-33,Test-N2/AHV,32,32 GiB,32.22 GiB / 1.95 TiB,1.69%,30.11%,-,-,-,-,Yes,No
+VirualMachine-34,Development-N2/AHV,8,8 GiB,37.52 GiB / 650 GiB,0.13%,36.76%,0,1,21 KBps,0.52 ms,Yes,No
+VirualMachine-35,Production-N2/AHV,8,8 GiB,10.04 GiB / 150 GiB,0.12%,14.74%,-,-,-,-,Yes,No
+VirualMachine-36,Production-N2/AHV,8,8 GiB,14.7 GiB / 150 GiB,0%,0%,-,-,-,-,Yes,No
+VirualMachine-37,Test-N2/AHV,8,8 GiB,9.95 GiB / 150 GiB,0%,0%,-,-,-,-,Yes,No
+VirualMachine-38,Development-N2/AHV,4,16 GiB,41.85 GiB / 1.12 TiB,0.06%,8.04%,0,0,0 KBps,1.69 ms,Yes,No
+VirualMachine-39,Production-N2/AHV,4,16 GiB,22.73 GiB / 278 GiB,0.04%,4.62%,0,0,0 KBps,0 ms,Yes,No
+VirualMachine-40,Test-N2/AHV,4,16 GiB,22.29 GiB / 278 GiB,0.06%,4.68%,0,1,12 KBps,0.88 ms,Yes,No
+VirualMachine-41,Development-N2/AHV,24,96 GiB,135.12 GiB / 3.91 TiB,7.54%,49.29%,-,-,-,-,Yes,No
+VirualMachine-42,Production-N2/AHV,8,8 GiB,20.26 GiB / 650 GiB,0.41%,39.91%,-,-,-,-,Yes,No
+VirualMachine-43,Production-N2/AHV,2,4 GiB,25.68 GiB / 250 GiB,1.52%,23.05%,-,-,-,-,Yes,No
+VirualMachine-44,Test-N2/AHV,8,32 GiB,12.94 GiB / 150 GiB,1.23%,7.25%,0,0,6 KBps,0.75 ms,Yes,No
+VirualMachine-45,Development-N2/AHV,8,16 GiB,21.57 GiB / 2.15 TiB,0.03%,5.52%,-,-,-,-,Yes,No
+VirualMachine-46,Production-N2/AHV,4,8 GiB,193.3 MiB / 16.01 GiB,0.33%,5.13%,-,-,-,-,Yes,No
+VirualMachine-47,Test-N2/AHV,8,16 GiB,4.74 GiB / 400 GiB,0.03%,3.70%,0,1,6 KBps,0.87 ms,Yes,No
+VirualMachine-48,Development-N2/AHV,8,16 GiB,4.7 GiB / 400 GiB,0.02%,3.70%,0,1,6 KBps,0.76 ms,Yes,No
+VirualMachine-49,Production-N2/AHV,32,64 GiB,463.65 GiB / 2.15 TiB,0.03%,17.64%,0,0,0 KBps,0.49 ms,Yes,No
+VirualMachine-50,Production-N2/AHV,8,16 GiB,4.82 GiB / 400 GiB,0.02%,3.78%,-,-,-,-,Yes,No
+VirualMachine-51,Test-N2/AHV,2,32 GiB,24.09 GiB / 1.12 TiB,1.15%,24.40%,0,0,1 KBps,0.55 ms,Yes,No
+VirualMachine-52,Development-N2/AHV,16,64 GiB,62.04 GiB / 23.58 TiB,1.51%,20.38%,0,6,132 KBps,0.54 ms,Yes,No
+VirualMachine-53,Production-N2/AHV,8,32 GiB,8.63 GiB / 650 GiB,0.02%,84.18%,0,4,18 KBps,0.75 ms,Yes,No
+VirualMachine-54,Test-N2/AHV,8,32 GiB,10.26 GiB / 650 GiB,0.02%,2.77%,-,-,-,-,Yes,No
+VirualMachine-55,Development-N2/AHV,16,16 GiB,26.27 GiB / 400 GiB,0.03%,10.29%,0,2,18 KBps,0.68 ms,Yes,No
+VirualMachine-56,Production-N2/AHV,16,96 GiB,65.34 GiB / 660 GiB,0.08%,4.65%,-,-,-,-,Yes,Yes
+VirualMachine-57,Production-N2/AHV,4,16 GiB,82.95 GiB / 450.41 GiB,0.10%,4.22%,-,-,-,-,Yes,No
+VirualMachine-58,Test-N2/AHV,24,72 GiB,165.41 GiB / 1.78 TiB,0.53%,8.96%,-,-,-,-,Yes,No
+VirualMachine-59,Development-N2/AHV,32,96 GiB,1.09 TiB / 1.27 TiB,0.32%,7.50%,1,7,144 KBps,0.74 ms,Yes,No
+VirualMachine-60,Production-N2/AHV,32,96 GiB,176.42 GiB / 1.63 TiB,0.02%,30.67%,0,31,523 KBps,0.55 ms,Yes,No
+VirualMachine-61,Test-N2/AHV,12,32 GiB,175.16 GiB / 550 GiB,2.03%,57.71%,-,-,-,-,Yes,No
+VirualMachine-62,Development-N2/AHV,8,8 GiB,196.78 GiB / 650 GiB,0.33%,61.12%,0,2,36 KBps,1.3 ms,Yes,No
+VirualMachine-63,Production-N2/AHV,4,16 GiB,19.79 GiB / 350 GiB,0.10%,13.53%,0,0,1 KBps,0.74 ms,Yes,No
+VirualMachine-64,Production-N2/AHV,4,8 GiB,24.64 GiB / 350 GiB,0.09%,15.68%,-,-,-,-,Yes,No
+VirualMachine-65,Test-N2/AHV,4,8 GiB,25.1 GiB / 450 GiB,0.04%,11.78%,-,-,-,-,Yes,No
+VirualMachine-66,Development-N2/AHV,8,16 GiB,23.9 GiB / 650 GiB,0.50%,40.16%,-,-,-,-,Yes,No
+VirualMachine-67,Production-N2/AHV,8,16 GiB,20.94 GiB / 650 GiB,1%,40.99%,0,1,29 KBps,0.62 ms,Yes,No
+VirualMachine-68,Test-N2/AHV,8,16 GiB,31.43 GiB / 650 GiB,1.15%,47.64%,0,1,48 KBps,0.61 ms,Yes,No
+VirualMachine-69,Development-N2/AHV,8,16 GiB,28.62 GiB / 650 GiB,0.45%,37.88%,-,-,-,-,Yes,No
+VirualMachine-70,Production-N2/AHV,8,16 GiB,38.41 GiB / 650 GiB,1.29%,41.77%,-,-,-,-,Yes,No
+VirualMachine-71,Production-N2/AHV,8,16 GiB,13.1 GiB / 650 GiB,1.83%,48.49%,0,5,42 KBps,0.47 ms,Yes,No
+VirualMachine-72,Test-N2/AHV,8,16 GiB,8.61 GiB / 650 GiB,5.77%,41.41%,-,-,-,-,Yes,No
+VirualMachine-73,Development-N2/AHV,8,16 GiB,25.31 GiB / 650 GiB,1.71%,39.77%,0,2,22 KBps,0.46 ms,Yes,No
+VirualMachine-74,Production-N2/AHV,8,16 GiB,26.59 GiB / 650 GiB,2.42%,38%,-,-,-,-,Yes,No
+VirualMachine-75,Test-N2/AHV,12,32 GiB,75.57 GiB / 650 GiB,0.13%,5.49%,-,-,-,-,Yes,No
+VirualMachine-76,Development-N2/AHV,12,32 GiB,12.29 GiB / 650 GiB,0.01%,2.99%,0,0,0 KBps,1.27 ms,Yes,No
+VirualMachine-77,Production-N2/AHV,8,16 GiB,28.82 GiB / 50 GiB,0.38%,9.53%,0,1,10 KBps,0.52 ms,Yes,No
+VirualMachine-78,Production-N2/AHV,4,16 GiB,20.93 GiB / 350 GiB,0.03%,4.21%,-,-,-,-,Yes,No
+VirualMachine-79,Test-N2/AHV,8,8 GiB,35.83 GiB / 505 GiB,0.08%,26.63%,-,-,-,-,Yes,No
+VirualMachine-80,Development-N2/AHV,8,32 GiB,70.74 GiB / 0.99 TiB,0.10%,3.34%,0,0,0 KBps,0 ms,Yes,No
+VirualMachine-81,Production-N2/AHV,6,32 GiB,22.45 GiB / 1.44 TiB,0.19%,3.46%,-,-,-,-,Yes,No
+VirualMachine-82,Test-N2/AHV,8,16 GiB,117.47 GiB / 630.41 GiB,0.21%,73.12%,-,-,-,-,Yes,No
+VirualMachine-83,Development-N2/AHV,8,16 GiB,55.89 GiB / 630.41 GiB,0.22%,68.85%,-,-,-,-,Yes,No
+VirualMachine-84,Production-N2/AHV,8,32 GiB,343.24 GiB / 870 GiB,0.13%,28.58%,0,0,2 KBps,0.71 ms,Yes,No
+VirualMachine-85,Production-N2/AHV,8,32 GiB,45.86 GiB / 1.3 TiB,0.12%,17.74%,0,0,2 KBps,0.58 ms,Yes,No
+VirualMachine-86,Test-N2/AHV,2,8 GiB,31.89 GiB / 650 GiB,43.86%,99.18%,-,-,-,-,Yes,No
+VirualMachine-87,Development-N2/AHV,8,32 GiB,145.79 GiB / 1.12 TiB,0.24%,7.29%,0,0,3 KBps,0.59 ms,Yes,No
+VirualMachine-88,Production-N2/AHV,8,32 GiB,91.55 GiB / 450 GiB,0.23%,23.42%,-,-,-,-,Yes,No
+VirualMachine-89,Test-N2/AHV,4,8 GiB,27.13 GiB / 300 GiB,0.71%,22.11%,-,-,-,-,Yes,No
+VirualMachine-90,Development-N2/AHV,4,8 GiB,444.23 MiB / 150.41 GiB,0.03%,7.62%,-,-,-,-,Yes,No
+VirualMachine-91,Production-N2/AHV,8,8 GiB,10.9 GiB / 150 GiB,0%,0%,-,-,-,-,Yes,No
+VirualMachine-92,Production-N2/AHV,8,8 GiB,14.81 GiB / 150 GiB,0%,0%,-,-,-,-,Yes,No
+VirualMachine-93,Test-N2/AHV,8,32 GiB,6.03 GiB / 100 GiB,0.11%,5.51%,-,-,-,-,Yes,No
