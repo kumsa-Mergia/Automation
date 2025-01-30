@@ -3,9 +3,9 @@ Capacity",Storage,"CPU
  Usage","Memory
 Usage","Controller 
 Read IOPS","Controller
-Write IOPS","Controller
-IO Bandwidth","Controller 
-Avg IO Latency","Backup and 
+Write IOPS","Controller IO
+Bandwidth","Controller Avg
+IO Latency","Backup and 
 Recovery Capable",Flash Mode
 VirualMachine-1,Production-N2/AHV,20,128 GiB,56.16 GiB / 650 GiB,0.02%,1.31%,-,-,-,-,Yes,No
 VirualMachine-2,Test-N2/AHV,20,128 GiB,9.31 GiB / 750 GiB,0.01%,1.85%,-,-,-,-,Yes,No
